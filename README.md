@@ -21,8 +21,7 @@ This project was created to deepen understanding of processor architecture and p
 
 1. Clone the repository:
     ```
-    git clone https://github.com/yourusername/riscv-microprocessor.git
-    cd riscv-microprocessor
+   https://github.com/mjaganmohan343/RISC-V-Microprocessor.git
     ```
 2. Simulate using Vivado or compatible Verilog tools.
 
